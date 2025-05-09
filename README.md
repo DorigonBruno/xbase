@@ -30,7 +30,7 @@ npm install
 npm run dev
 ```
 
-<img src="./github/image.png" alt="local host"/>
+<img src="./github/localhost.png" alt="local host"/>
 
 Clicamos no local host para ver o projeto.
 
